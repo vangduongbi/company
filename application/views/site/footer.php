@@ -69,6 +69,10 @@
         <a href="#home" class="scrollup"><i class="fa fa-angle-up fa-3x"></i></a>
       </div>
     </div>
-      <script src="js/bootstrap.js"></script>
-
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/jquery.prettyPhoto.js"></script>
+      <script src="js/jquery.isotope.min.js"></script>
+      <script src="js/wow.min.js"></script>
+      <script src="js/owl.carousel.min.js"></script>
+      <script src="js/functions.js"></script>
   </footer>

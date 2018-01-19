@@ -9,13 +9,12 @@
     <title>Dịch vụ vệ sinh chuyên nghiệp</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script
-        src="https://code.jquery.com/jquery-3.2.1.js"
-        integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-        crossorigin="anonymous"></script>
-
-
+            src="https://code.jquery.com/jquery-3.2.1.js"
+            integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+            crossorigin="anonymous"></script>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-theme.css" rel="stylesheet">
